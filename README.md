@@ -1,5 +1,5 @@
-# emc_obs_db
-Tools to manage the EMC marine observation database.
+# emc_obsdb
+Wrapper to JCSDA tools to manage the EMC marine observation database.
 
 1 - Set R2D2_CONFIG to the desired yaml file
 For examplem on Orion:
